@@ -1,12 +1,16 @@
-# 3D Masked Autoencoder for patching volume data 
+# 3D Masked Autoencoder for patching volume data
 
-![Arch](wide.png)
+![Arch](wide_2.png)
 
 
 ## Dataset : https://thinkonward.com/app/c/challenges/patch-the-planet
 
 ## Data Prearation
 Please follow the instructions in DATASET.md for data preparation.
+
+## Results
+
+![input](result.gif)
 
 ## Acknowledgements
 This project is built upon [MAE-pytorch](https://github.com/facebookresearch/mae), [VideoMAE](https://github.com/MCG-NJU/VideoMAE) and [SeismicFoundationModel](https://github.com/shenghanlin/SeismicFoundationModel)
