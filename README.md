@@ -1,6 +1,6 @@
 # 3D Masked Autoencoder for patching volume data
 
-![Arch](wide_2.png)
+![Arch](wide.png)
 
 
 ## Dataset : https://thinkonward.com/app/c/challenges/patch-the-planet
