@@ -1,4 +1,4 @@
-# 3D Masked Autoencoder for patching volume data
+# 3D Representation Learning for Interpolation with Masked Autoencoder
 
 ![Arch](wide.png)
 
